@@ -20,4 +20,4 @@
 
 <h3>Solution</h3>
 
-<h1>1. Building the data pipeline</h1>
+<h6>1. Building the data pipeline</h6>
