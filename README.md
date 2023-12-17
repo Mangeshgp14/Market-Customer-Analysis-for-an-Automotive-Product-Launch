@@ -3,7 +3,7 @@
 
 <img width="1000" src="https://github.com/Mangeshgp14/Market-Customer-Analysis-for-an-Automotive-Product-Launch/blob/main/Bmw%20squad%2C%20bike%20and%20cars%20wallpaper.jpg" >
 
-<h3>Project Report : <a href="https://docs.google.com/document/d/15N9RGkeVrEgJgv39IX_4kryKr08HekS5sdLyQdQdjqE/edit">Link</a></h3>
+<h3>Project Report : <a href="https://docs.google.com/document/d/15N9RGkeVrEgJgv39IX_4kryKr08HekS5sdLyQdQdjqE/edit?usp=sharing">Link</a></h3>
 
 <h3>Business Problem</h3>
 <p>
