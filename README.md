@@ -15,7 +15,9 @@
    <li>Cost estimation for each product 💵.
    </li>
  </ol>
-
  Apart from these requirements, if our firm can provide some additional insights or suggestions which may prove vital in the product launch, they can surely do so.
-
 </p>
+
+<h3>Solution</h3>
+
+<h1>1. Building the data pipeline</h1>
