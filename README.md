@@ -27,6 +27,8 @@
    Excel: Conditional Statements, Removing Duplicates, Removing Null values
   </li>
   <li>
+   Python: SQLAlchemy, Loading Data into MySQL
+  </li><li>
    SQL: Group By, Joins, Filtering data
   </li>
   <li>
@@ -38,3 +40,9 @@
 
 
 <h3>Key Insights</h3>
+<ol>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+</ol>
