@@ -37,4 +37,4 @@
 <img width="1000" src="https://github.com/Mangeshgp14/Market-Customer-Analysis-for-an-Automotive-Product-Launch/blob/main/data%20pipeline.png" >
 
 
-
+<h3>Key Insights</h3>
