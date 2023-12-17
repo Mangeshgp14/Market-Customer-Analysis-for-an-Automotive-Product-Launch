@@ -22,7 +22,6 @@
 
 <h3>Tools Used</h3>
 
-<h6>
  <ol>
   <li>
    Excel: Conditional Statements, Removing Duplicates, Removing Null values
@@ -34,8 +33,7 @@
    Power BI:
   </li>
  </ol>
- </h6>
-
+ 
 <img width="1000" src="https://github.com/Mangeshgp14/Market-Customer-Analysis-for-an-Automotive-Product-Launch/blob/main/data%20pipeline.png" >
 
 
