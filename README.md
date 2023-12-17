@@ -16,4 +16,6 @@
    </li>
  </ol>
 
+ Apart from these requirements, if our firm can provide some additional insights or suggestions which may prove vital in the product launch, they can surely do so.
+
 </p>
