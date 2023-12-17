@@ -20,10 +20,23 @@
  Apart from these requirements, if our firm can provide some additional insights or suggestions which may prove vital in the product launch, they can surely do so.
 </p>
 
-<h3>Solution</h3>
+<h3>Tools Used</h3>
 
-<h6>1. Building the data pipeline</h6>
+<h6>
+ <ol>
+  <li>
+   Excel: Conditional Statements, Removing Duplicates, Removing Null values
+  </li>
+  <li>
+   SQL: Group By, Joins, Filtering data
+  </li>
+  <li>
+   Power BI:
+  </li>
+ </ol>
+ </h6>
 
 <img width="1000" src="https://github.com/Mangeshgp14/Market-Customer-Analysis-for-an-Automotive-Product-Launch/blob/main/data%20pipeline.png" >
 
-The raw data was provided in the form of CSV files that were loaded and transformed into Excel. Later using a Python script the cleaned data was loaded into MySQL database for analysis. Lastly, a dashboard was developed to display the findings to the stakeholders.
+
+
