@@ -20,7 +20,7 @@
  Apart from these requirements, if our firm can provide some additional insights or suggestions which may prove vital in the product launch, they can surely do so.
 </p>
 
-<h3>Tools Used</h3>
+<h3>Tech Stack</h3>
 
  <ol>
   <li>
@@ -31,9 +31,7 @@
   </li><li>
    SQL: Group By, Joins, Filtering data
   </li>
-  <li>
-   Power BI:
-  </li>
+  
  </ol>
  
 <img width="1000" src="https://github.com/Mangeshgp14/Market-Customer-Analysis-for-an-Automotive-Product-Launch/blob/main/data%20pipeline.png" >
