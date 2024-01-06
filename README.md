@@ -33,6 +33,23 @@
   </li>
   
  </ol>
+
+ <h3>Key Insights</h3>
+
+ <ol>
+  <li>
+   🌍: Europe and North America came out as the best markets to launch automotive products due to the large proportion of potential customers within large population.
+  </li>
+  <li>
+   🏍️: People who have short commute distances (0-1 miles) are in their mid-30s and have small family sizes (1 child) tend to buy two-wheelers.
+  </li>
+  <li>
+   🚗: People who have large commute distances ( > 2 miles), are in their mid-40s, and have large family sizes (more than 1 child) tend to buy four-wheelers.
+  </li>
+  <li>
+   💵: Income is also a crucial factor in Europe that affects the decision to buy a two or four-wheeler. 
+  </li>
+ </ol>
  
 <img width="1000" src="https://github.com/Mangeshgp14/Market-Customer-Analysis-for-an-Automotive-Product-Launch/blob/main/data%20pipeline.png" >
 
